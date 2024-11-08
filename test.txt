@@ -1,2 +1,2 @@
-toto je 1 project
+toto je 1 text
 Commit ve větvi branch2
