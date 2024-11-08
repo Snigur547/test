@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 Můj první commit
 Commit ve větvi master
-=======
-toto je 1 text
-Commit ve větvi branch2
->>>>>>> branch2
+
+
+
