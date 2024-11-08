@@ -1,2 +1,6 @@
 toto je 1 project
-Commit v hlavní větvi
+<<<<<<< HEAD
+Commit ve větvi branch2
+=======
+Commit ve větvi branch2
+>>>>>>> branch2
