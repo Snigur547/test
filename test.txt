@@ -1,6 +1,2 @@
-toto je 1 project
-<<<<<<< HEAD
 Můj první commit
-=======
 Commit ve větvi branch2
->>>>>>> branch2
