@@ -1,2 +1,2 @@
 Můj první commit
-Commit ve větvi branch2
+Commit ve větvi master
