@@ -1,4 +1,3 @@
-
 Můj první commit
 Commit ve větvi master
 
